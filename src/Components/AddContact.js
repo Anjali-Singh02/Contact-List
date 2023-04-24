@@ -7,6 +7,7 @@ export const AddContact = (props) => {
 		marginTop: '90px',
 		border: '0.5px solid green',
 		borderRadius: '10px',
+		padding: '15px',
 		width: '45%',
 		boxShadow: '0px 0px 10px rgba(0, 0, 0, 0.5)',
 	};
@@ -46,8 +47,8 @@ export const AddContact = (props) => {
 					style={{
 						display: 'flex',
 						justifyContent: 'space-between',
-						margin: '5px 5px 10px',
-						boxShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)',
+						padding: '15px',
+						boxShadow: '3px 1px 7px 0px rgba(0, 0, 0, 0.3)',
 					}}
 				>
 					<h2>Add Contacts</h2>

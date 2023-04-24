@@ -42,6 +42,8 @@ export const ContactList = (props) => {
 							display: 'flex',
 							justifyContent: 'space-between',
 							padding: '20px',
+							margin: '0 0 20px 0px',
+							boxShadow: '3px 1px 7px 0px rgba(0, 0, 0, 0.3)',
 						}}
 					>
 						<h2>Contact List</h2>
